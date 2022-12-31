@@ -1,0 +1,41 @@
+{
+  "name": "lavalink-status",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "16.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brblacky/lavalink-status.git"
+  },
+  "keywords": [
+    "lavalink",
+    "erela",
+    "music",
+    "bot",
+    "discord-music",
+    "discord",
+    "musicbot"
+  ],
+  "author": "blacky & chethan",
+  "license ": "MIT",
+  "bugs": "https://github.com/brblacky/lavalink-status/issues",
+  "homepage": "https://github.com/brblacky/lavalink-status#readme",
+  "devDependencies": {
+    "node": "^16.6.1"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "erela.js": "^2.3.3",
+    "express": "^4.17.2",
+    "fs": "0.0.1-security",
+    "path": "^0.12.7",
+    "s": "^1.0.0"
+  }
+}
