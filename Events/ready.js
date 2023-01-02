@@ -52,7 +52,7 @@ module.exports = async (client) => {
 
         const rembed = new MessageEmbed()
 
-            .setAuthor('🪐 GALAXY  NODE', client.user.displayAvatarURL())
+            .setAuthor('GALAXY  NODE', client.user.displayAvatarURL())
 
 					  .setURL(`https://discodes.ml/lavalinks`)            .setDescription(`\`\`\`${all.join('\n\n----------------------------\n')}\n\n` + 
 
