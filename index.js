@@ -27,3 +27,6 @@ readdirSync("./Events/").forEach(file => {
   keepAlive();
 
   client.login(token);
+
+
+//put your token and channel ID or lavalink edit on config.js
