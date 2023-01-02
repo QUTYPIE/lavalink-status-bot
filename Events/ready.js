@@ -92,7 +92,7 @@ module.exports = async (client) => {
 
         msg.edit(rembed);
 
-        }, 2000);})
+        }, 1000);})
 
   
 
