@@ -1,10 +1,10 @@
-Lavalink status bot  on  Replit
+Lavalink status bot  on  Replit others host services & vps it's work nice 
 
 Run on Repl.it
 
 Installation
 
-Fork this github repository. then create a new replit project.
+Fork this github [repository](https://github.com/QUTYPIE/lavalink-status-bot) then create a new replit project.
 
 or click me to install it automatically.
 ---
