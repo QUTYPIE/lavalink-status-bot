@@ -7,7 +7,7 @@ Installation
 Fork this github repository. then create a new replit project.
 
 or click me to install it automatically.
-
+---
 How to use
 
 Run the replit
@@ -22,7 +22,7 @@ The default port to connect is 443 and the default password is maybeiwasboring Y
 
 How to keep the replit on with uptimerobot or freshping
 
- Go to uptimerobot or freshping, and set HTTP request to your app and make sure to add /version at the end. ie https://lavalink-replit.priyam37yt.repl.co/version
+ Go to uptimerobot or freshping, and set HTTP request to your app and make sure to add /version at the end 
 
 only needed if the run button doesnt work
 --- 
