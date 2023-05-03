@@ -11,21 +11,21 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/brblacky/lavalink-status.git"
+    "url": "https://github.com/QUTYPIE/lavalink-status-bot.git"
   },
   "keywords": [
     "lavalink",
     "erela",
     "music",
-    "bot",
+
     "discord-music",
     "discord",
     "musicbot"
   ],
   "author": "blacky & chethan",
   "license ": "MIT",
-  "bugs": "https://github.com/brblacky/lavalink-status/issues",
-  "homepage": "https://github.com/brblacky/lavalink-status#readme",
+  "bugs": "https://github.com/QUTYPIE/lavalink-status-bot/issues",
+  "homepage": "https://github.com/QUTYPIE/lavalink-status-bot#readme",
   "devDependencies": {
     "node": "^16.6.1"
   },
